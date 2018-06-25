@@ -5,6 +5,8 @@
 *.obj
 
 build/
+vs/
+ninja/
 
 
 
