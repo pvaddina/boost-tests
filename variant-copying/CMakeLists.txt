@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(TARGET variant_demo)
 set(SOURCES var.cpp)
 
-include_directories(${TARGET} PRIVATE "c:/Users/praka/workspace/third_party/boost")
+include_directories(${TARGET} PRIVATE "c:/Users/praka/workspace/third-party/boost")
 
 add_executable(${TARGET} ${SOURCES})
 
